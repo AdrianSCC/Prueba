@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Commit de DIOS ADRIAN");
         System.out.println("Segundo Commit de Carlos");
         System.out.println("Segundo Commit de Adrian");
+        System.out.println("Merge Carlos");
 
     }
 }
